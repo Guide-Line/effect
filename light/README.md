@@ -3,6 +3,9 @@
 
 ## <a name='빛효과'>빛효과</a>
 
+![Alt text](img/light.jpg) 
+
+
 ```javascript
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -62,4 +65,3 @@
 
 
 
-![Alt text](img/light.jpg) 
