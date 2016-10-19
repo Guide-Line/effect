@@ -1,7 +1,7 @@
 
 # [목차이동](https://github.com/Guide-Line/effect#TOC)
 
-## <a name='빛효과'>빛효과</a>
+## <a name='빛효과'>빛효과</a> 일정한 간격으로 깜빡임 가능
 
 ![Alt text](img/light.jpg) 
 
