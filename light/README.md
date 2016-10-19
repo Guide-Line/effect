@@ -1,7 +1,7 @@
 
 # [목차이동](https://github.com/Guide-Line/effect#TOC)
 
-## <a name='border_effect'>border_effect</a>
+## <a name='빛효과'>빛효과</a>
 
 ```javascript
 
