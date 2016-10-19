@@ -3,4 +3,4 @@
 
 ## <a name='TOC'><a name='TOC'>목차</a>
 
-  1. [highLight](정리중)
+  1. [highLight](https://github.com/Guide-Line/effect/tree/master/light)
